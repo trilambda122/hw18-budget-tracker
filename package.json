@@ -28,7 +28,8 @@
     "mongoose": "^5.5.15",
     "morgan": "^1.9.1",
     "webpack": "^5.6.0",
-    "webpack-cli": "^4.2.0"
+    "webpack-cli": "^4.2.0",
+    "workbox-webpack-plugin": "^5.1.4"
   },
   "devDependencies": {
     "workbox-cli": "^5.1.4"
