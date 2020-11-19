@@ -1,4 +1,4 @@
-// const workboxConfig = require("../workbox-config");
+const workboxConfig = require("../workbox-config");
 console.log('HOWDY FROM THE SERIVICES WORKER')
 
 workbox.routing.registerRoute(
