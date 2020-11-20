@@ -1,5 +1,5 @@
 module.exports = {
-  "globDirectory": "distro/",
+  "globDirectory": "public/",
   "globPatterns": [
     "**/*.{png,html,js,css}"
   ],
