@@ -1,0 +1,23 @@
+{
+"theme_color": "#f69435",
+"background_color": "#ffffff",
+"display": "fullscreen",
+"scope": "/",
+"start_url": "/",
+"app_name": "Simple Budget Tracking",
+"short_name": "Budget Tracking",
+"description": "Budget tracking app using chart js",
+"icons": [
+    {
+        "src": "./icons/icon-192x192.png",
+        "sizes": "192x",
+        "type": "image/png"
+    },
+
+    {
+        "src": "./icons/icon-512x512.png",
+        "sizes": "512x",
+        "type": "image/png"
+    }
+]
+}
