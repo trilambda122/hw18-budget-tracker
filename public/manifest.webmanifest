@@ -9,19 +9,19 @@
 "description": "Budget tracking app using chart js",
 "icons": [
     {
-        "src": "./icons/icon-144x144.png",
+        "src": "/icons/icon-144-144.png",
         "sizes": "144x",
         "type": "image/png"
     },
     
     {
-        "src": "./icons/icon-192x192.png",
+        "src": "/icons/icon-192-192.png",
         "sizes": "192x",
         "type": "image/png"
     },
 
     {
-        "src": "./icons/icon-512x512.png",
+        "src": "./icons/icon-512-512.png",
         "sizes": "512x",
         "type": "image/png"
     }
